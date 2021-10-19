@@ -6,3 +6,9 @@ This project consists in collecting and analysing Environmental and Anthropologi
 
 The code folder must be place inside another directory in which you also find the "Data" folder which contains all the data needed to run this code.
 
+## Author
+Lavinia
+
+## License
+CC-BY 4
+
